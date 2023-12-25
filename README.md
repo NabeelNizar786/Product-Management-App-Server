@@ -29,7 +29,7 @@ Installation:
 
 git clone https://github.com/NabeelNizar786/Product-Management-App-Server.git
 
-cd client
+cd server
 
 2.Install dependencies:
 
@@ -40,7 +40,7 @@ Usage:
 
 1.Start the application:
 
-npm run dev
+npm start
 
 Description:
 
