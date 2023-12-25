@@ -13,7 +13,7 @@ const cors = require("cors");
 //CORS
 app.use(
   cors({
-    origin: ["https://productmanagers.netlify.app/"],
+    origin: ["https://productmanagers.netlify.app"],
     methods: ["GET", "POST", "PATCH"],
     credentials: true,
   })
